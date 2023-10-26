@@ -8,7 +8,7 @@ HandBook::HandBook()
 	nishe = nullptr;
 	adress = nullptr;
 }
-
+//
 HandBook::HandBook( char* a, char* b,  char* c,  char* d, long long n)
 {
 	firmName = a;
